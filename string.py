@@ -1,2 +1,4 @@
-firstline  = "winner winner chicken dinner,\nchicken dinner/n"
+firstline  = "winner winner chicken dinner"
 secondline = "chicken dinner"
+print(winner winner chicken dinner)(chicken dinner)
+n\chicken dinner/n
